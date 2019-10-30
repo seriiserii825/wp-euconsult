@@ -38,8 +38,12 @@
 			<?php endif; ?>
         </div>
     </div>
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2718.968310561467!2d28.88903931506623!3d47.0408526348812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c97c8eb87a7c5b%3A0x110996ab5f02af98!2zQnVsZXZhcmR1bCBNaXJjZWEgY2VsIELEg3Ryw65uIDgvMSwgQ2hpyJlpbsSDdSwg0JzQvtC70LTQsNCy0LjRjw!5e0!3m2!1sru!2s!4v1572432319814!5m2!1sru!2s" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    </div>
 <!--    <div class="map">-->
 <!--		--><?php //if (get_lang() === '_ro'): ?>
+
 <!--            <iframe width="100%" height="300" frameborder="0" allowfullscreen="" scrolling="no" title="Google Maps"-->
 <!--                    aria-label="Google Maps"-->
 <!--                    src="https://static.parastorage.com/services/wix-bolt/1.3069.0/node_modules/wix-santa/static/external/googleMap.html?language=en&lat=47.04084899999999&long=28.891227999999956&address=Bulevardul Mircea cel Bătrîn 8/1, Chișinău, Moldova&addressInfo=R. Moldova, mun.Chişinău bd.Mircea cel Bătrîn 8/1&showZoom=true&showStreetView=true&showMapType=true"></iframe>-->
