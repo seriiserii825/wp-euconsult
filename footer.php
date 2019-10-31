@@ -68,7 +68,6 @@
     <?php else: ?>
 	    <?php echo do_shortcode('[contact-form-7 id="403" title="Video popup rom"]'); ?>
     <?php endif; ?>
-    
 </div>
 
 <div class="popup" id="js-popup">
